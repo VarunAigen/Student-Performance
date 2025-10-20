@@ -41,10 +41,12 @@ Student-Performance-Prediction/
 1. Clone the repository:
    ```bash
    git clone <your-repo-link>
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
-Open and run the notebook Student_Performance.ipynb in Jupyter Notebook or Google Colab.
+2. Install required libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+3. Open and run the notebook Student_Performance.ipynb in Jupyter Notebook or Google Colab.
 
-##**Results**
+## **Results**
 
 Exploratory Data Analysis (data distribution and correlations)
 Model performance metrics (MAE, MSE, R² Score)
