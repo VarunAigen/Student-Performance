@@ -31,12 +31,13 @@ This project predicts students’ final grades based on various demographic, soc
 ---
 
 ## **Project Structure**
+'''
 Student-Performance-Prediction/
 │
 ├── student-mat.csv # Dataset file
 ├── Student_Performance.ipynb # Notebook containing EDA, preprocessing, model training, and evaluation
 └── README.md # Project description
-
+'''
 ## **How to Run**
 1. Clone the repository:
    ```bash
